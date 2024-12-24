@@ -238,70 +238,7 @@
     }
   ],
   "orders": [
-    {
-      "cartList": [
-        {
-          "id": 10004,
-          "name": "The Complete Guide to Backend Development",
-          "overview": "The Complete Guide to Backend Development",
-          "long_description": "This guide takes you from backend basics to advanced concepts, covering server-side technologies, APIs, databases, and security.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10004.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 7,
-          "best_seller": true
-        },
-        {
-          "id": 10006,
-          "name": "Frontend Fastlane Plan With Projects",
-          "overview": "Frontend Fastlane Plan With Projects",
-          "long_description": "Master frontend development quickly with this plan, featuring projects on HTML, CSS, JavaScript, and modern frameworks.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10006.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 10,
-          "best_seller": false
-        },
-        {
-          "id": 10008,
-          "name": "JavaScript Basics To Advance With Karthik",
-          "overview": "JavaScript Basics To Advance With Karthik",
-          "long_description": "Understand JavaScript fundamentals and advanced topics, with an emphasis on practical applications and real-world projects.",
-          "price": 29,
-          "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10008.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 3,
-          "best_seller": true
-        },
-        {
-          "id": 10001,
-          "name": "Basics To Advanced In React",
-          "overview": "Basics To Advanced In React",
-          "long_description": "Learn everything from React basics to advanced concepts in this comprehensive course. Explore state management, hooks, routing, and more.",
-          "price": 29,
-          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10001.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 5,
-          "best_seller": true
-        }
-      ],
-      "amount_paid": 256,
-      "quantity": 4,
-      "user": {
-        "name": "Karthik Manyam",
-        "email": "karthik@example.com",
-        "id": 1
-      },
-      "id": 1
-    }
+    
   ],
   "users": [
     {
@@ -309,12 +246,6 @@
       "password": "$2a$12$sRMSF.BwUA8ZjAXTq0PPV.8899eW3Zs.piBdXUK/DjTCjGLgx7iJe",
       "name": "Karthik Manyam",
       "id": 1
-    },
-    {
-      "email": "kmanyam@gmail.com",
-      "password": "$2a$10$YhGUIm2OhRw6YYWmytmlveGpQ5BGX4q7owhWi0/DmtJMDIPGh3Hti",
-      "name": "Karthik Manyam",
-      "id": 2
     }
   ]
 }
